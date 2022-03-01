@@ -7,7 +7,7 @@ Répondez aux questions suivantes:
          faire un update
 
 3- comment faire pour mettre ses changements en brouillon ?
-    avec la commande git rebase
+    avec la commande git add .
 
 4- c'est quoi la difference entre $git merge branch et $git merge origin branch
     la premiere effectuer un merge en local et et la deuxieme en remote
