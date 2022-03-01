@@ -20,4 +20,4 @@ c'est une opération d'annulation vers l'avant
 
 
 6- la commande $git cherry-pick existe ? si-oui que fait-elle ?
-Oui
+Oui, Applique les changements introduits par certains commits existants
