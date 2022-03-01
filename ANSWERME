@@ -1,18 +1,21 @@
 Répondez aux questions suivantes:
 
 1- Dans git, comment faire pour basculer d'une branche à une autre?
-
+    git checkout <nombBranche>
 
 2- que fait la commande $ git checkout . ?
-
+   se basculer dans la branche master
 
 3- comment faire pour mettre ses changements en brouillon ?
-
+    git reflog pour recuperer le hash du changement
+    git reset --hard <hash>
 
 4- c'est quoi la difference entre $git merge branch et $git merge origin branch
-
+    git merge branch : local
+    git merge origin dans le repo (remote)
 
 5- que fait la commande $ git revert <hash>
-
+    commit pour annuler les changements apporté a l'historique de commits
 
 6- la commande $git cherry-pick existe ? si-oui que fait-elle ?
+     oui, Sélectionner un commit d'une branche et de l'appliquer à une autre branche
