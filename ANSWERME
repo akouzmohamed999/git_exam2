@@ -12,6 +12,7 @@ Répondez aux questions suivantes:
 4- c'est quoi la difference entre $git merge branch et $git merge origin branch
     la premiere effectuer un merge en local et et la deuxieme en remote
 
+
 5- que fait la commande $ git revert <hash>
     revenir a un commit en donnant son hash
 
