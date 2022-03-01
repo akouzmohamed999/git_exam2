@@ -4,14 +4,14 @@ Répondez aux questions suivantes:
 git checkout
 
 2- que fait la commande $ git checkout . ?
-suppremer les modifications dans une branche
+suppremer les changements dans une branche
 
 3- comment faire pour mettre ses changements en brouillon ?
 git stash
 
 4- c'est quoi la difference entre $git merge branch et $git merge origin branch
-git merge branch : to merge in your local branch
-git merge origin branch: to merge your local branch to remote branch
+$git merge branch : to merge in your local branch
+$git merge origin branch: to merge your local branch to remote branch
 
 5- que fait la commande $ git revert <hash>
 suppresion des commit
