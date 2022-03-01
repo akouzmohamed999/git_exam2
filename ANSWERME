@@ -4,7 +4,7 @@ Répondez aux questions suivantes:
     avec la commande git checkout <nom>
 
 2- que fait la commande $ git checkout . ?
-         faire un update
+         faire un update en supprimant les changements
 
 3- comment faire pour mettre ses changements en brouillon ?
     avec la commande git add .
