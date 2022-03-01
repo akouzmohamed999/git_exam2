@@ -1,7 +1,7 @@
 Répondez aux questions suivantes:
 
 1- Dans git, comment faire pour basculer d'une branche à une autre?
-    avec la commande git checkout
+    avec la commande git checkout <nom>
 
 2- que fait la commande $ git checkout . ?
          faire un update
